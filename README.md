@@ -1,14 +1,12 @@
 # Windows XP Softwares
 
-*Note: If no version number is present that means the newest software version that can be downloaded from the internet is still working on Windows XP.*
-
 *Note: If the word "LATEST" is present after version number, that means this is the latest version that is working on Windows XP.*
 
 **Utility**
 
 - [Total Commander 10.00](https://www.ghisler.com/download.htm) - Dual pane file manager
 - [7zip 19.00](https://www.7-zip.org/download.html) - Archive manager
-_ [Infra Recorder 0.53](http://infrarecorder.org/?page_id=5) - CD/DVD burner
+- [Infra Recorder 0.53](http://infrarecorder.org/?page_id=5) - CD/DVD burner
 - [CCleaner 5.56 LATEST](ccleaner-5-56.zip) - System Cleaner
 - [Defraggler 2.21 LATEST](defraggler-2-21) - Disk defragmenting
 - [Speccy 1.31](speccy-1-31.zip) - System information
