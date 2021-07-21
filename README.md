@@ -9,14 +9,14 @@
 - [Infra Recorder 0.53](http://infrarecorder.org/?page_id=5) - CD/DVD burner
 - [CCleaner 5.56 LATEST](ccleaner-5-56.zip) - System Cleaner
 - [Defraggler 2.21 LATEST](defraggler-2-21) - Disk defragmenting
-- [Speccy 1.31](speccy-1-31.zip) - System information
-- [WinCDEmu](https://wincdemu.sysprogs.org/) - ISO, cue, bin, mdf, mds, img mounter
+- [Speccy 1.31 LATEST](speccy-1-31.zip) - System information
+- [WinCDEmu 4.1](https://wincdemu.sysprogs.org/) - ISO, cue, bin, mdf, mds, img mounter
 - [TeraCopy 2.3 LATEST](teracopy-2-3.zip) - Secure file copier
 
 **Internet browser**
 
-- [Firefox 52.9.0esr LATEST](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/)
-- [Opera 36 LATEST](opera-36.zip)
+- [Firefox 52.9.0esr (2018-06) LATEST](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/)
+- [Opera 36 (2016-04) LATEST](opera-36.zip)
 - [MyPal Browser](https://github.com/Feodor2/Mypal/releases) - Still supported browser for WinXp
 
 **Media**
