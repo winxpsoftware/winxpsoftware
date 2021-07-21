@@ -17,7 +17,7 @@
 
 - [Firefox 52.9.0esr (2018-06) LATEST](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/)
 - [MyPal Browser](https://github.com/Feodor2/Mypal/releases) - Still supported browser for WinXp
-- [Google Chrome 49 (2016-01) LATEST](chrome49.zip)
+- [Google Chrome 49 (2016-01) LATEST](chrome-49.zip)
 - [Opera 36 (2016-04) LATEST](opera-36.zip)
 - [MiniChrome (Chrome 87) LATEST](https://web.archive.org/web/20210227214057/https://browser.kfsafe.cn/) - Chinese build of Chrome 87. Uses 1 GB RAM, [sends telemetric data to chinese servers](https://www.youtube.com/watch?v=3j4OocSslj4), but [virus free](https://www.virustotal.com/gui/file/81123c9a99dc16fc7e536e3abca10d400583184cfe1b2f218f937112c23ed001/detection)
 
