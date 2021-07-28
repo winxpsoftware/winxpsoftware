@@ -41,7 +41,7 @@ This is a collection of the latest softwares, that still works under windows xp.
 	- [Freac 1.1.5](https://www.freac.org/) - Batch MP3 converter
 - Non-Essentials
 	- [K-lite Codec Pack 13.8.5 LATEST](k-lite-codec-pack-13-8-5.zip) - Media Codec pack
-	- [FFMPEG 20170706 LATEST](ffmpeg-20170706-3b3501f-win32-static.zip) - FFMPEG command line media converter
+	- [FFMPEG 20170331 LATEST](ffmpeg-N-84804-g247d033-20170331-win32-static.7z) - FFMPEG command line media converter
 	- [Avanti 0.92 LATEST](avanti-0-92.zip) - FFMPEG GUI
 	- [Hugin 2013.0.0 LATEST](hugin-2013-0-0.zip) - Panorama photo sticther
 	- [Whitecap 5.0.5 LATEST](whitecap-5-0-5.zip) - Music Visualisations for Windows Media Player
@@ -50,7 +50,7 @@ This is a collection of the latest softwares, that still works under windows xp.
 **Programming**
 
 - [Python 3.4.4 LATEST](https://www.python.org/downloads/release/python-344/) - Python programming language
-- [Git for Windows 2.10.0 LATEST](https://github.com/git-for-windows/git/releases/tag/v2.10.0.windows.1) - Git version control system
+- [Git for Windows 2.10.0 LATEST](git-for-windows-2-10.zip) - Git version control system
 - [WinMerge 2.16](https://winmerge.org/downloads/) - File difference checker
 - XAMPP Web Server 1.8.2 LATEST - [part1](xampp-1-8-2.zip.001), [part2](xampp-1-8-2.zip.002), [part3](xampp-1-8-2.zip.003)
 - [Borland Delphi 7 Lite LATEST](borland-delphi-7-lite-password-winxpsoftware.zip) - Delphi programming language
