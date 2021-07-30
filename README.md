@@ -46,6 +46,7 @@ This is a collection of the latest softwares, that still works under windows xp.
 	- [Hugin 2013.0.0 LATEST](hugin-2013-0-0.zip) - Panorama photo sticther
 	- [Whitecap 5.0.5 LATEST](whitecap-5-0-5.zip) - Music Visualisations for Windows Media Player
 	- [Ghasisoft GXSCC Beta 236](ghasisoft-gxscc-beta-236.zip) - .mid to 8bit music converter
+	- [CamStudio 2.7](camstudio-2-7.zip) - Screen recorder
 
 **Programming**
 
@@ -80,5 +81,4 @@ This is a collection of the latest softwares, that still works under windows xp.
 - [IZ3D Driver 1.12 LATEST](iz3d-1-12.zip) - Anaglyph red-cyan 3d for every game
 - [Stardock Fences 1.01](stardock-fences-1-01-password-winxpsoftware.zip) - Desktop icon manager
 - [Symantec Ghost Explorer](symantec-ghost-explorer-12-password-winxpsoftware.zip) - Browse .gho drive image files
-- [Aerosnap 0.61 LATEST](aerosnap-0-61.zip) - Aero snap opened windows to left or right side of the screen like in Windows 7+
 - [Anamaker 1.07](anamaker-1-07.zip) - Anaglyph red-cyan stereo photo maker
