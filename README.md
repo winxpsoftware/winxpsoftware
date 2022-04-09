@@ -17,7 +17,7 @@ This is a collection of the latest softwares, that still works under windows xp.
 - [TeraCopy 2.3 LATEST](teracopy-2-3.zip) - Secure file copier
 - [WinDirStat 1.1.2](https://windirstat.net/download.html) - Disk usage statistics
 - [FreeFileSync 10.11 LATEST](freefilesync-10-11.zip) - File synchronization
-- [Rufus 2.18 LATEST](rufus-2-18.zip) - Write bootable ISO images to USB drives
+- [Rufus 2.18 LATEST](https://web.archive.org/web/20220409003254/https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe) - Write bootable ISO images to USB drives
 
 **Internet browser**
 
