@@ -2,7 +2,10 @@
 
 This is a collection of the latest softwares, that still works under windows xp.
 
-*Note: If the word "LATEST" is present after version number, that means this is the latest version that is working on Windows XP.*
+Notes: 
+
+- If the word "LATEST" is present after version number, that means this is the latest version that is working on Windows XP.
+- An interesting project worth checking out: [One Core API](https://github.com/Skulltrail192/One-Core-Api) | [Binaries](https://github.com/Skulltrail192/One-Core-API-Binaries) [(backup)](http://web.archive.org/web/20220710042949/https://transfer.sh/get/ypiCoA/One-Core-API-2.6.0.zip) - A complete layer to get compatibility on XP/2003 for newer applications
 
 **Utility**
 
