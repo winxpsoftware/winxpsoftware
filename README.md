@@ -14,7 +14,7 @@ Notes:
 - [Infra Recorder 0.53](http://infrarecorder.org/) - CD/DVD burner
 - [CdBurnerXP 4.5.8](https://www.cdburnerxp.se) - CD/DVD burner
 - [CCleaner 5.56 LATEST](ccleaner-5-56.zip) - System Cleaner
-- [Defraggler 2.21 LATEST](defraggler-2-21) - Disk defragmenting
+- [Defraggler 2.21 LATEST](defraggler-2-21.zip) - Disk defragmenting
 - [Speccy 1.31 LATEST](speccy-1-31.zip) - System information
 - [WinCDEmu 4.1](https://wincdemu.sysprogs.org/) - ISO, cue, bin, mdf, mds, img mounter
 - [TeraCopy 2.3 LATEST](teracopy-2-3.zip) - Secure file copier
