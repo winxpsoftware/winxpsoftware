@@ -21,6 +21,7 @@ Notes:
 - [WinDirStat 1.1.2](https://windirstat.net/download.html) - Disk usage statistics
 - [FreeFileSync 10.11 LATEST](freefilesync-10-11.zip) - File synchronization
 - [Rufus 2.18 LATEST](https://web.archive.org/web/20220409003254/https://github.com/pbatard/rufus/releases/download/v2.18/rufus-2.18.exe) - Write bootable ISO images to USB drives
+- [Recuva 1.53](https://www.ccleaner.com/recuva/download) - File recovery
 
 **Internet browser**
 
