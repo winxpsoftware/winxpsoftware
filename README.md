@@ -4,8 +4,9 @@ This is a collection of the latest softwares, that still works under windows xp.
 
 Notes: 
 
-- If the word "LATEST" is present after version number, that means this is the latest version that is working on Windows XP.
-- An interesting project worth checking out: [One Core API](https://github.com/Skulltrail192/One-Core-Api) | [Binaries](https://github.com/Skulltrail192/One-Core-API-Binaries) ( backups: [2.6.0](http://web.archive.org/web/20220710042949/https://transfer.sh/get/ypiCoA/One-Core-API-2.6.0.zip), [2.10.0](https://web.archive.org/web/20230606012810/https://github.com/Skulltrail192/One-Core-API-Binaries/releases/download/2.10.0/One-Core-API-2.10.0.zip) - A complete layer to get compatibility on XP/2003 for newer applications
+- If the word "LATEST" is present after version number, that means this is the latest version that works on Windows XP.
+- An interesting project worth checking out: [One Core API](https://github.com/Skulltrail192/One-Core-Api) | [Binaries](https://github.com/Skulltrail192/One-Core-API-Binaries) ( backups: [2.6.0](http://web.archive.org/web/20220710042949/https://transfer.sh/get/ypiCoA/One-Core-API-2.6.0.zip), [2.10.0](https://web.archive.org/web/20230606012810/https://github.com/Skulltrail192/One-Core-API-Binaries/releases/download/2.10.0/One-Core-API-2.10.0.zip) - A complete layer to get compatibility on XP/2003 for newer applications.
+- https://legacyupdate.net/ - Make Windows XP Update work again
 
 **Utility**
 
