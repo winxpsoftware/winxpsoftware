@@ -14,7 +14,7 @@ Notes:
 - [7zip 19.00](https://www.7-zip.org/download.html) - Archive manager
 - [Infra Recorder 0.53](http://infrarecorder.org/) - CD/DVD burner
 - [CdBurnerXP 4.5.8](https://www.cdburnerxp.se) - CD/DVD burner
-- [CCleaner 5.56 LATEST](ccleaner-5-56.zip) - System Cleaner
+- [CCleaner 5.64 LATEST](ccleaner-5-64.zip) - System Cleaner
 - [Defraggler 2.21 LATEST](defraggler-2-21.zip) - Disk defragmenting
 - [Speccy 1.31 LATEST](speccy-1-31.zip) - System information
 - [WinCDEmu 4.1](https://wincdemu.sysprogs.org/) - ISO, cue, bin, mdf, mds, img mounter
