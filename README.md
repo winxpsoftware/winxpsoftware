@@ -26,12 +26,15 @@ Notes:
 
 **Internet browser**
 
-- [Firefox 52.9.0esr (2018-06) LATEST](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/)
-- [MyPal Browser (2021-07) LATEST](http://web.archive.org/web/20211212125512/https://www.mypal-browser.org/release/mypal-29.3.0.win32.installer.exe) - Still supported browser for WinXp mypal-browser.org based on PaleMoon
-- [MyPal 68 Browser 12.1 beta](http://web.archive.org/web/20220408164047/https://cdn-125.anonfiles.com/faI7k4U1xb/da3f68a9-1649436489/mypal-68.12.1.en-US.win32.zip) - Based on Firefox 68
-- [Google Chrome 49 (2016-01) LATEST](chrome-49.zip)
-- [Opera 36 (2016-04) LATEST](opera-36.zip)
-- [MiniChrome (Chrome 87) LATEST](https://web.archive.org/web/20210227214057/https://browser.kfsafe.cn/) - Chinese build of Chrome 87. Uses 1 GB RAM, [sends telemetric data to chinese servers](https://www.youtube.com/watch?v=3j4OocSslj4), but [virus free](https://www.virustotal.com/gui/file/81123c9a99dc16fc7e536e3abca10d400583184cfe1b2f218f937112c23ed001/detection)
+- Original browsers:
+	- [Firefox 52.9.0esr (2018-06) LATEST](https://ftp.mozilla.org/pub/firefox/releases/52.9.0esr/win32/)
+	- [Google Chrome 49 (2016-01) LATEST](chrome-49.zip)
+	- [Opera 36 (2016-04) LATEST](opera-36.zip)
+- Revamped alternative browsers:
+	- [Supermium](https://win32subsystem.live/supermium/) - Chromium based modern web browser
+	- [MyPal Browser (2021-07) LATEST](http://web.archive.org/web/20211212125512/https://www.mypal-browser.org/release/mypal-29.3.0.win32.installer.exe) - Still supported browser for WinXp mypal-browser.org based on PaleMoon
+	- [MyPal 68 Browser 12.1 beta](http://web.archive.org/web/20220408164047/https://cdn-125.anonfiles.com/faI7k4U1xb/da3f68a9-1649436489/mypal-68.12.1.en-US.win32.zip) - Based on Firefox 68
+	- [MiniChrome (Chrome 87) LATEST](https://web.archive.org/web/20210227214057/https://browser.kfsafe.cn/) - Chinese build of Chrome 87. Uses 1 GB RAM, [sends telemetric data to chinese servers](https://www.youtube.com/watch?v=3j4OocSslj4), but [virus free](https://www.virustotal.com/gui/file/81123c9a99dc16fc7e536e3abca10d400583184cfe1b2f218f937112c23ed001/detection)
 
 **Media**
 
